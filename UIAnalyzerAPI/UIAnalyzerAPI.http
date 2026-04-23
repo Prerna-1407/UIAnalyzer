@@ -1,0 +1,6 @@
+@UIAnalyzerAPI_HostAddress = http://localhost:5118
+
+GET {{UIAnalyzerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
